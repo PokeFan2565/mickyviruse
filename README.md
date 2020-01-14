@@ -13,8 +13,8 @@ suppose my viruse is in sdcard
 So i will write 
 
 
-cd /sdcard 
-sh mv.sh 
+cd /sdcard <br>
+sh mv.sh <br>
 
 
 then it will download all viruses from git 
